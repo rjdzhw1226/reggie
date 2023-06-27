@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0855559b-f808-4795-8a22-d8ed983841d8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\DOWNLOAD\maven3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\DOWNLOAD\maven3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O0eaYFcIgv6qTRcAKqrY16RYf9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DOWNLOAD/项目/REGGIE/src/main/resources/backend&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3b66dbcecde8740e2ac960e42857f5d6&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\resources\backend" />
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\java\com\itheima\reggie\utils" />
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\resources" />
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\java\com\itheima\reggie\service\impl" />
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\java\com\itheima\reggie\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DOWNLOAD\项目\REGGIE\src\main\resources\backend" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.reggie.service.impl" />
+      <recent name="com.itheima.reggie.service" />
+      <recent name="com.itheima.reggie.controller" />
+      <recent name="com.itheima.reggie.mapper" />
+      <recent name="com.itheima.reggie.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="MinesFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mines.MinesFrame" />
+      <module name="Mines" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TetrisFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tetris.TetrisFrame" />
+      <module name="Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="traingame.TrainGameFrame" />
+      <module name="TrainGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="traingame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WormFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="worm.WormFrame" />
+      <module name="Worm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="worm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="REGGIE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="Application.MinesFrame" />
+        <item itemvalue="Application.TetrisFrame" />
+        <item itemvalue="Application.TrainGameFrame" />
+        <item itemvalue="Application.WormFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0855559b-f808-4795-8a22-d8ed983841d8" name="Changes" comment="" />
+      <created>1680701990309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680701990309</updated>
+      <workItem from="1680701991529" duration="2917000" />
+      <workItem from="1680711772215" duration="43000" />
+      <workItem from="1680711967094" duration="4199000" />
+      <workItem from="1680743187232" duration="84000" />
+      <workItem from="1680803587982" duration="2409000" />
+      <workItem from="1680877807964" duration="6051000" />
+      <workItem from="1681032107003" duration="3269000" />
+      <workItem from="1681206794850" duration="4778000" />
+      <workItem from="1681223443664" duration="4116000" />
+      <workItem from="1681261620260" duration="8000" />
+      <workItem from="1681309712398" duration="5659000" />
+      <workItem from="1681373832168" duration="1000" />
+      <workItem from="1681402443386" duration="4436000" />
+      <workItem from="1681564364841" duration="1162000" />
+      <workItem from="1685337362672" duration="6338000" />
+      <workItem from="1685410969246" duration="12235000" />
+      <workItem from="1685429926004" duration="5629000" />
+      <workItem from="1685436364437" duration="3377000" />
+      <workItem from="1685494741614" duration="5097000" />
+      <workItem from="1686035672239" duration="5530000" />
+      <workItem from="1686105114591" duration="9344000" />
+      <workItem from="1686125100390" duration="595000" />
+      <workItem from="1686879633243" duration="3015000" />
+      <workItem from="1687137668585" duration="6627000" />
+      <workItem from="1687161898060" duration="9000" />
+      <workItem from="1687161910677" duration="14000" />
+      <workItem from="1687161935553" duration="184000" />
+      <workItem from="1687162157935" duration="20000" />
+      <workItem from="1687162513379" duration="281000" />
+      <workItem from="1687162817000" duration="3768000" />
+      <workItem from="1687169626060" duration="163000" />
+      <workItem from="1687223615352" duration="2291000" />
+      <workItem from="1687316588365" duration="1323000" />
+      <workItem from="1687333978792" duration="4644000" />
+      <workItem from="1687674648336" duration="124000" />
+      <workItem from="1687832739477" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

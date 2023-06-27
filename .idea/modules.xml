@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../黑马点评合集/Java/Mines/Mines.iml" filepath="$PROJECT_DIR$/../黑马点评合集/Java/Mines/Mines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../黑马点评合集/Java/Tetris/Tetris.iml" filepath="$PROJECT_DIR$/../黑马点评合集/Java/Tetris/Tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../黑马点评合集/Java/TrainGame/TrainGame.iml" filepath="$PROJECT_DIR$/../黑马点评合集/Java/TrainGame/TrainGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../黑马点评合集/Java/Worm/Worm.iml" filepath="$PROJECT_DIR$/../黑马点评合集/Java/Worm/Worm.iml" />
+    </modules>
+  </component>
+</project>
