@@ -9,6 +9,15 @@ spring:
       url: jdbc:mysql://localhost:3306/db_reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
       username: root
       password: 123456
+  redis:
+    host: 192.168.179.200
+    port: 6379
+    #password: root@123456
+    database: 0
+  cache:
+    redis:
+      time-to-live: 1800000 #设置缓存数据的过期时间
+
   # 邮箱发送邮件配置
   mail:
     host: smtp.qq.com
